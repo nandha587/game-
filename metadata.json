@@ -1,0 +1,7 @@
+{
+  "name": "Cosmic Defender",
+  "description": "An action-packed retro arcade space combat game with power-ups, wave progression, boss battles, and synthesized sound effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
